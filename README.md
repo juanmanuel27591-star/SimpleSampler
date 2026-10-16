@@ -18,7 +18,9 @@ controller or with the on-screen keyboard.
 
 ## Samples
 
-The `samples` folder contains a few short royalty-free sounds so the plugin can be tried right away. Run the Standalone version, click "Load sample" and pick any file from that folder. Play the notes with the on-screen keyboard.
+The `samples` folder contains a few short TR-808 drum sounds so the plugin can be tried right away. Run the Standalone version, click "Load sample" and pick any file from that folder. Play the notes with the on-screen keyboard.
+
+Sample credits: the drum sounds come from the TR-808 sample archive at http://machines.hyperreal.org/manufacturers/Roland/TR-808/. No license is stated there, so please check their terms before reusing the files.
 
 Any other `.wav`, `.aiff` or `.flac` file also works. If the sample starts with silence, the plugin skips it automatically so the sound plays right on the key press.
 
