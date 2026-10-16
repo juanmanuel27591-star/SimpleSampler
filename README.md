@@ -16,6 +16,12 @@ controller or with the on-screen keyboard.
 - 8 voices, sample-accurate note timing
 - On-screen keyboard
 
+## Samples
+
+The `samples` folder contains a few short royalty-free sounds so the plugin can be tried right away. Run the Standalone version, click "Load sample" and pick any file from that folder. Play the notes with the on-screen keyboard.
+
+Any other `.wav`, `.aiff` or `.flac` file also works. If the sample starts with silence, the plugin skips it automatically so the sound plays right on the key press.
+
 ## Build (Windows)
 
 Requires Visual Studio with C++ tools, CMake and Git.
